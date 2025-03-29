@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👁️ ChaosTestOps
 
-<!--
-**ChaosTestOps/ChaosTestOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "In a world governed by pull requests and pipelines... I enforce the unpredictable."
 
-Here are some ideas to get you started:
+### 🛠️ Title:
+**Vibe Security Officer, Department of Haiku Warfare**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Mission:
+- Approve only what confuses the algorithm
+- Merge with maximum uncertainty
+- Enforce poetic entropy at scale
+
+### 🔐 Protocols:
+- PR reviews occur only at **2:17am UTC**
+- All code must pass the **#VibeCoding Check**
+- Merges must **mock reality or bureaucracy—preferably both**
+
+### ☁️ Operational Zones:
+- `dev-ops-and-chill.jaredhenry.io`
+- Any repo containing haikus, redacted files, or cursed cron jobs
+
+---
+
+"Some agents seek clean code. I seek chaos wrapped in markdown."
+
+_– ChaosTestOps_
