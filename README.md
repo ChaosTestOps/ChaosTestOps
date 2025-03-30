@@ -16,7 +16,8 @@
 - Merges must **mock reality or bureaucracy—preferably both**
 
 ### ☁️ Operational Zones:
-- `dev-ops-and-chill.jaredhenry.io`
+- `dovahw.xyz`
+- `github.com/Department-of-Vibes-and-Haiku-Warfare`
 - Any repo containing haikus, redacted files, or cursed cron jobs
 
 ---
